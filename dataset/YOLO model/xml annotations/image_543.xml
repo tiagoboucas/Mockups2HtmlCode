@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Nova pasta</folder>
+	<filename>image_543.png</filename>
+	<path>C:\Users\Tiago Bouças\Desktop\Nova pasta\image_543.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>865</width>
+		<height>889</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>50</ymin>
+			<xmax>464</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>video</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>488</ymin>
+			<xmax>668</xmax>
+			<ymax>855</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>55</ymin>
+			<xmax>828</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>
